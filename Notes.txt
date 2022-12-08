@@ -1,0 +1,9 @@
+//hard hat testing
+
+//installing
+npm install --sav-dev hardhat
+
+//package
+@nomicfoundation/hardhat - toolbox
+
+//global commands
